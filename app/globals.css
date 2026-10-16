@@ -30,8 +30,8 @@
      display (the Granjon-ish voice of the wordmark) and a grotesque for
      every functional surface — nav, buttons, prices, forms. */
   --font-display: var(--font-eb-garamond), "Iowan Old Style", Georgia, serif;
-  --font-sans: var(--font-archivo), "Helvetica Neue", Helvetica, Arial,
-    sans-serif;
+  --font-sans:
+    var(--font-archivo), "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   /* Modular scale, 1.25 from a 16px body. Display sizes are fluid so a
      hero headline stays a headline at 390px and at 1920px. */
