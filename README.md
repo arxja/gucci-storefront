@@ -1,8 +1,10 @@
 # Gucci Storefront
 
-A luxury e-commerce application built with Agents and PostgreSQL! Agents manage your codebase using AGENTS.md project rules, Plan Mode for safe database migrations, and sandboxed permissions for security. Features a high-end luxury design system, custom reusable Skills, and parallel subagents
+<p align="center">
+  A luxury e-commerce application built with Agents and PostgreSQL! Agents manage your codebase using AGENTS.md project rules, Plan Mode for safe database migrations, and sandboxed permissions for security. Features a high-end luxury design system, custom reusable Skills, and parallel subagents
+</p>
 
-  <div>
+  <div align="center">
 
 <img src="https://img.shields.io/badge/-Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white" />
